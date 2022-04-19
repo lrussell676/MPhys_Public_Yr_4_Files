@@ -255,7 +255,7 @@ plt.show()
 print("\n----------------------------------")
 
 for i in range(len(sample_size)):
-    print("\n----Sample Size of",sample_size[i]," ----")
+    print("\n---- Sample Size of",sample_size[i]," ----")
     print("\nTask 2a Result = ",out_2a[i,0], ", STD = ",out_2a[i,1])
     print("\nTask 2b Result = ",out_2b[i,0], ", STD = ",out_2b[i,1])
     print("\nTask 2c Result = ",out_2c[i,0], ", STD = ",out_2c[i,1])
